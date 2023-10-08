@@ -68,8 +68,12 @@ body {
 }
 
 .text-box a {
-    color: #D8CA9D;
+    color: #fff;
     margin: 2.5% auto;
     font-size: 24px;
-    
+}
+
+.text-box a:hover {
+    color: #D8CA9D;
+    font-size: 28px;
 }
