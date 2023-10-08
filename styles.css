@@ -14,15 +14,14 @@ a {
 body {
     height: 100vh;
     width: 100vw;
-    /* background: url(img.jpg) no-repeat; */
+    background: url(img2.jpg) no-repeat;
     background-size: cover;
 }
 
 .navbar {
     display: flex;
     justify-content: space-between;
-    background: #86f786;
-    backdrop-filter: blur();
+    backdrop-filter: blur(50px);
 }
 
 .navbar .links {
