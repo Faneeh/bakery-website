@@ -45,8 +45,3 @@ body {
 .images {
     display: flex;
 }
-
-img {
-    max-width: 100%;
-    max-height: 75%;
-   }
