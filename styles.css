@@ -25,9 +25,13 @@ body {
 .navbar .links {
     font-weight: 500;
     margin: 0 5%;
+    font-size: 24px;
+    padding: 1% 0;
 }
 
 .navbar .logo {
     font-weight: 700;
     margin: 0 5%;
+    font-size: 32px;
+    padding: 0.5% 0;
 }
