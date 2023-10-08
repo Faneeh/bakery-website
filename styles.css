@@ -66,3 +66,10 @@ body {
     margin: 0 auto;
     font-size: 24px;
 }
+
+.text-box a {
+    color: #7E4C2A;
+    margin: 2.5% auto;
+    font-size: 24px;
+    
+}
