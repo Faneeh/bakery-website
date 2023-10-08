@@ -37,6 +37,10 @@ body {
     color: #fff;
 }
 
+.links a:hover {
+    color: #D8CA9D;
+}
+
 .navbar .logo {
     font-weight: 700;
     margin: 0 5%;
