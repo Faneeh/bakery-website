@@ -22,5 +22,9 @@ body {
 }
 
 .navbar .links {
+    font-weight: 500;
+}
 
+.navbar .logo {
+    font-weight: 700;
 }
