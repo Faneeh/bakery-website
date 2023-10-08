@@ -33,6 +33,7 @@ body {
 
 .links a {
     padding: 0 16px;
+    color: #fff;
 }
 
 .navbar .logo {
@@ -40,6 +41,7 @@ body {
     margin: 0 5%;
     font-size: 32px;
     padding: 0.7% 0;
+    color: #fff;
 }
 
 .images {
