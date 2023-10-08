@@ -43,3 +43,13 @@ body {
     padding: 0.7% 0;
     color: #fff;
 }
+
+.text-box {
+    color: #fff;
+    backdrop-filter: blur(50px);
+    border-radius: 5%;
+    width: 25%;
+    margin: 10% auto;
+    display: flex;
+    flex-direction: column;
+}
