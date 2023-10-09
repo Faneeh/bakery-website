@@ -69,12 +69,14 @@ body {
     color: #fff;
     backdrop-filter: blur(50px);
     display: flex;
+    flex-wrap: wrap;
 }
 
 .menu .item {
     display: flex;
     flex-direction: column;
     margin: auto;
+    flex-basis: 701px;
 }
 
 .item h2 {
@@ -88,4 +90,5 @@ body {
 .item-img img {
     width: 500px;
     height: auto;
+    margin-left: 10%;
 }
