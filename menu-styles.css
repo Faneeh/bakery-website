@@ -67,7 +67,7 @@ body {
 
 .menu {
     color: #fff;
-    backdrop-filter: blur(50px);
+    backdrop-filter: blur(10px);
     display: flex;
     flex-wrap: wrap;
 }
